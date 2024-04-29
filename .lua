@@ -55,8 +55,8 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 local Window = Rayfield:CreateWindow({
     Name = "Legends Of Speed by Kemiling Hub",
-    LoadingTitle = "why are you reading this",
-    LoadingSubtitle = "by diglt",
+    LoadingTitle = "Tai lu semua",
+    LoadingSubtitle = "by henclin",
     ConfigurationSaving = {
        Enabled = true,
        FolderName = nil, -- Create a custom folder for your hub/game
@@ -64,14 +64,14 @@ local Window = Rayfield:CreateWindow({
     },
     Discord = {
        Enabled = false,
-       Invite = "wk2xtM8H", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD.
+       Invite = "695MBB7NhV", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD.
        RememberJoins = true -- Set this to false to make them join the discord every time they load it up
     },
     KeySystem = false, -- Set this to true to use our key system
     KeySettings = {
-       Title = "Sirius Hub",
+       Title = "Kemiling Hub",
        Subtitle = "Key System",
-       Note = "Join the discord (discord.gg/sirius)",
+       Note = "Join the discord (https://discord.gg/695MBB7NhV)",
        FileName = "SiriusKey",
        SaveKey = true,
        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
