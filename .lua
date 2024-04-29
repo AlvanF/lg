@@ -50,7 +50,7 @@ end
 
 -- GUI
 
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/AlvanF/Rayfield-speed-legends/main/.lua'))()
 
 
 local Window = Rayfield:CreateWindow({
